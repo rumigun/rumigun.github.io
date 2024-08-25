@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "About"
-    url: https://rumigun.github.io/about/  
-  - title: "Pages"
-    url: /page-archive/
+    url: /about/  
+  - title: "Publication"
+    url: /publication/
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/ 
   # - title: "About"
