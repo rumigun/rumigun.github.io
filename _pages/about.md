@@ -2,7 +2,7 @@
 title: "About"
 excerpt: "Page not found. Your pixels are in another canvas."
 sitemap: true
-permalink: /about.html
+permalink: /single.html
 header:
   image: /assets/images/semi_chips.jpg
 ---
