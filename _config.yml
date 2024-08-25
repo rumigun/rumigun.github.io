@@ -13,9 +13,6 @@
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
-header:
-  image: /assets/images/semi_chips.jpg
   
 # Site Settings
 locale                   : "en-US"
