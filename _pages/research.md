@@ -8,10 +8,10 @@ header:
   image: /assets/images/brain2.jpg
 ---
 
-Memristor
+## Memristor
 
-Neuromorphic Device
+## Neuromorphic Device
 
-Artificial Intelligence
+## Artificial Intelligence
 
 
