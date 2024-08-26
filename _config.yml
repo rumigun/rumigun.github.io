@@ -142,6 +142,8 @@ author:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/hanchan-song-22a268213/"
+      icon: "fab fa-fw fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=JgMnIXoAAAAJ&hl=en/"
 
 # Site Footer
 footer:
