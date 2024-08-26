@@ -320,8 +320,8 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: "/home"
-      type: pages
+      path: ""
+      type: posts
     values:
       layout: single
       author_profile: true
@@ -329,3 +329,10 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: "/home"
+      type: pages
+    values:
+      layout: single
+
