@@ -10,4 +10,4 @@ header:
 
 {% include feature_row %}
 
-Sorry, but the page you were trying to view does not exist.
+Welcome to Hanchan Song's Site
