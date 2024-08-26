@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /rumigun/
+permalink: /rumi/
 hidden: false
 header:
   overlay_color: "#5e616c"
