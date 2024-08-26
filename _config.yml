@@ -22,7 +22,7 @@ title_separator          : "-"
 subtitle                 : "Memristor & Neuromorphic Computing"# site tagline that appears below site title in masthead
 name                     : "Hanchan Song"
 description              : "Memristor & Neuromorphic Computing."
-url                      : "https://rumigun.github.io/home" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://rumigun.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "rumigun/rumigun.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 header:
