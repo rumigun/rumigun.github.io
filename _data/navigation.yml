@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "About"
-    url: /rumi/about/  
+    url: /about/  
   - title: "Research"
-    url: /rumi/research/
+    url: /research/
   - title: "Publication"
-    url: /rumi/publication/
+    url: /publication/
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/ 
   # - title: "About"
