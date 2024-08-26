@@ -5,7 +5,6 @@ hidden: false
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/semi_chips2.jpg
-Centered with `type="center"`'
 feature_row:
   - image_path: assets/images/semi_chips2.jpg
     alt: "About"
