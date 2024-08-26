@@ -36,22 +36,22 @@ header:
 
 ## Conference
 
-6. Hanchan Song, Mingu Lee, Woojoon Park, Gwangmin Kim, Kyung Min Kim*
+6. **Hanchan Song**, Mingu Lee, Woojoon Park, Gwangmin Kim, Kyung Min Kim*
 Sound Localization Using Brain-inspired Memristive Delay System for Active Speaker Detection
 The 31th Korean Conference On Semiconductors, January, 14-16, 2024, Oral
-5. Hanchan Song, Do Hoon Kim, Hakseung Rhee, and Kyung Min Kim
+5. **Hanchan Song**, Do Hoon Kim, Hakseung Rhee, and Kyung Min Kim
 Atypical Memristive Neuromorphic Network Mimicking Brain Structural and Functional CharacteristicsThe 20th International Symposium on the Physics of Semiconductors and Applications
 The 20th International Symposium on the Physics of Semiconductors and Applications, July 17-21, 2022 
-4. Hanchan Song, Kyung Min Kim
+4. **Hanchan Song**, Kyung Min Kim
 Array-Level Synaptic Weight Tuning Method of Self-Limited Analog Switching in Parallel for Memristive Neural Network
 8th International Congress On Ceramics ICC8, August 23-27, 2021
-3. Hanchan Song, Hyun Soo Nam, Jae Hyun In, Gwangmin Kim, Woon Hyung Cheong, Do Hoon Kim, and *Kyung Min Kim
+3. **Hanchan Song**, Hyun Soo Nam, Jae Hyun In, Gwangmin Kim, Woon Hyung Cheong, Do Hoon Kim, and *Kyung Min Kim
 Ensemble of Stochastic Memristive Neural Network to Mitigate Synaptic Device Non-idealities
 The 28th Korean Conference On Semiconductors, January 25-29, 2021, Oral
-2. Hanchan Song, *Kyung Min Kim
+2. **Hanchan Song**, *Kyung Min Kim
 Parallel Programming of Self-limited Analog Switching for an array-level Weight Update in Memristive Neural Network
 The 27th Korean Conference On Semiconductors, 강원도 하이원 그랜드호텔,  February 12-14, 2020, Poster <현장우수포스터상>
-1. Hanchan Song, Young Seok Kim, Juseong Park, *Kyung Min Kim
+1. **Hanchan Song**, Young Seok Kim, Juseong Park, *Kyung Min Kim
 Self-limited Switching for Analog Data Programming and its Application to a Memristive Neural Network
 The 26th Korean Conference On Semiconductors, 강원도 웰리힐리파크, February 13-15, 2019, Oral
 
