@@ -33,3 +33,7 @@ header:
 12. Gwangmin Kim, Jae Hyun In, Young Seok Kim, Hakseung Rhee, Woojoon Park, Hanchan Song, Juseong Park, Kyung Min Kim, Self-clocking fast and variation tolerant true random number generator based on a stochastic mott memristor, Nature communications, 12, 2906, 2021
 13. Jae Hyun In, Young Seok Kim, Hanchan Song, Gwang Min Kim, Jangho An, Jae Bum Jeon, Kyung Min Kim, A Universal Error Correction Method for Memristive Stateful Logic Devices for Practical Near‐Memory Computing, Advanced Intelligent Systems, 2(9), 2000081, 2020
 14. Young Seok Kim, Myeong Won Son, Hanchan Song, Juseong Park, Jangho An, Jae Bum Jeon, Geun Young Kim, Seoil Son, Kyung Min Kim, Stateful In‐Memory Logic System and Its Practical Implementation in a TaOx‐Based Bipolar‐Type Memristive Crossbar Array, Advanced Intelligent Systems, 2(3), 1900156, 2020
+
+## Conference
+
+## Patent
