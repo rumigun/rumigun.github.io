@@ -6,7 +6,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/semi_chips2.jpg
 feature_row:
-  - image_path: assets/images/home_semi_chips.jpg
+  - image_path: assets/images/home_chips.jpg
     alt: "About"
     title: "About"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
