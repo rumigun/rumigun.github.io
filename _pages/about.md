@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /rumigun/about/
 title: "About"
 excerpt: "Page not found. Your pixels are in another canvas."
 sitemap: false
