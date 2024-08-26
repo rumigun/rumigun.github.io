@@ -5,7 +5,7 @@ excerpt: "Page not found. Your pixels are in another canvas."
 sitemap: false
 permalink: /404.html
 header:
-  image: /assets/images/semi_chips.jpg
+  image: /assets/images/semi_chips2.jpg
 ---
 
 I am a postdoctoral researcher at Texas A&M University.

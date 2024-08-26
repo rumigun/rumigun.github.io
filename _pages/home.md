@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/semi_chips.jpg
+  overlay_image: /assets/images/semi_chips2.jpg
    
 ---
 
