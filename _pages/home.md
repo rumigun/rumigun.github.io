@@ -9,20 +9,20 @@ feature_row:
   - image_path: assets/images/home_chips.jpg
     alt: "About"
     title: "About"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "About me"
     url: "https://rumigun.github.io/about"
     btn_label: "Read More"
     btn_class: "btn--info"
   - image_path: /assets/images/home_ai.jpg
     alt: "Research"
     title: "Research"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Research background and approach"
     url: "https://rumigun.github.io/research"
     btn_label: "Read More"
     btn_class: "btn--info"
   - image_path: /assets/images/home_brain.jpg
     title: "Publication"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Publication information: research paper, conference, and patent"
     url: "https://rumigun.github.io/publication"
     btn_label: "Read More"
     btn_class: "btn--info"
