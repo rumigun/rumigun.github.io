@@ -12,20 +12,20 @@ feature_row:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "https://rumigun.github.io/about"
     btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_class: "btn--info"
   - image_path: /assets/images/home_ai.jpg
     alt: "Research"
     title: "Research"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "https://rumigun.github.io/research"
     btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_class: "btn--info"
   - image_path: /assets/images/home_brain.jpg
     title: "Publication"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
     url: "https://rumigun.github.io/publication"
     btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_class: "btn--info"
 ---
 
 {% include feature_row id="intro" type="center" %}
