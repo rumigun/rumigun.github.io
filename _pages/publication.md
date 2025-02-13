@@ -5,7 +5,7 @@ excerpt: "Page not found. Your pixels are in another canvas."
 sitemap: false
 #permalink: /404.html
 header:
-  image: /assets/images/brain3.jpg
+  image: /assets/images/books.jpg
 ---
 
 ## Paper (1st Author) (6)
