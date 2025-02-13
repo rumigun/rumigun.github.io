@@ -17,11 +17,13 @@ header:
 02. Gil Seop Kim†, **Hanchan Song†**, Yoon Kyeung Lee, Ji Hun Kim, Woohyun Kim, Tae Hyung Park, Hae Jin Kim, Kyung Min Kim*, Cheol Seong Hwang*, "Defect-Engineered Electroforming-Free Analog HfOx Memristor and Its Application to the Neural Network", ACS Applied Materials & Interfaces, 11(50), 47063-47072, 2019
 01. **Hanchan Song**, Young Seok Kim, Juseong Park, Kyung Min Kim*, "Designed Memristor Circuit for Self‐Limited Analog Switching and its Application to a Memristive Neural Network", Advanced Electronic Materials, 5(6), 1800740, 2019
 
-## Paper (Co-author) (14)
+## Paper (Co-author) (16)
 
-14. Gwangmin Kim†, Jae Hyun In†, Younghyun Lee†, Hakseung Rhee, Woojoon Park, **Hanchan Song**, Juseong Park, Jae Bum Jeon, Timothy D Brown, A Alec Talin, Suhas Kumar, Kyung Min Kim*, "Mott neurons with dual thermal dynamics for spatiotemporal computing", Nature Materials, 2024
+16. Mingu Jang, **Hanchan Song**, Hae Jin Kim, Jung Ho Yoon, Kyung Min Kim* "Multielement Filament Memristor Enabling Multifunctional Neuromorphic Device" Advanced Functional Materials 2423273, 2025. 
+15. Moon Gu Choi, Jae Hyun In, **Hanchan Song**, Gwangmin Kim, Hakseung Rhee, Woojoon Park, and Kyung Min Kim* "Demonstration of a novel Majority logic in the memristive crossbar array for in-memory parallel computing" Material Horizons 12, 131-140, 2025
+14. Gwangmin Kim†, Jae Hyun In†, Younghyun Lee†, Hakseung Rhee, Woojoon Park, **Hanchan Song**, Juseong Park, Jae Bum Jeon, Timothy D Brown, A Alec Talin, Suhas Kumar, Kyung Min Kim*, "Mott neurons with dual thermal dynamics for spatiotemporal computing", Nature Materials, 23, 1237–1244, 2024.
 13. Do Hoon Kim†, Woon Hyung Cheong†, **Hanchan Song**, Jae Bum Jeon, Geunyoung Kim, Kyung Min Kim*, "Memristive Monte Carlo DropConnect crossbar array enabled by device and algorithm co-design", Materials Horizon, 2024
-12. Hakseung Rhee, Gwangmin Kim, **Hanchan Song**, Woojoon Park, Do Hoon Kim, Jae Hyun In, Younghyun Lee, Kyung Min Kim*, "Probabilistic computing with NbOx metal-insulator transition-based self-oscillatory pbit, Nature Communication", 14, 7199, 2023
+12. Hakseung Rhee, Gwangmin Kim, **Hanchan Song**, Woojoon Park, Do Hoon Kim, Jae Hyun In, Younghyun Lee, Kyung Min Kim*, "Probabilistic computing with NbOx metal-insulator transition-based self-oscillatory pbit", Nature Communication, 14, 7199, 2023
 11. Geunyoung Kim, Younghyun Lee, Jae Bum Jeon, Woon Hyung Cheong, Woojoon Park, **Hanchan Song**, Kyung Min Kim*, "Threshold Modulative Artificial GABAergic Nociceptor", Advanced Materials, 35(47), 2304148, 2023
 10. Jungkyun Kim, Hakseung Rhee, Myeong Won Son, Juseong Park, Gwangmin Kim, Jae Bum Jeon, **Hanchan Song**, Geunwoo Kim, Byong-Guk Park, Jeong Hwan Han, Kyung Min Kim*, "Electromigration reliability of barrierless ruthenium and molybdenum for sub-10 nm interconnection", ACS Applied Electronic Materials, 5(5), 2477-2453 (2023)
 09. Woojoon Park, Gwangmin Kim, Jae Hyun In, Hakseung Rhee, **Hanchan Song**, Juseong Park, Alba Martinez, Kyung Min Kim, "High Amplitude Spike Generator in Au Nanodot-Incorporated NbOx Mott Memristor", Nano Letters, 23(11), 5399-5407, 2023
