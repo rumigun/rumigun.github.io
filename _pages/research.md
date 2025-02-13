@@ -19,10 +19,10 @@ Non-volatile memories and volatile selectors using emerging materials and device
 
 Artificial synapses, neurons, dendrites, and receptors using memristive devices with nonlinear dynamics to implement neuroscience principles.
 
-1. **Hanchan Song†**, Min Gu Lee†, Gwangmin Kim, Do Hoon Kim, Geunyoung Kim, Woojoon Park, Hakseung Rhee, Jae Hyun In, Kyung Min Kim, "Fully Memristive Elementary Motion Detectors for a Maneuver Prediction", Advanced Materials, 36(18), 2309708, 2024
+> 1. **Hanchan Song†**, Min Gu Lee†, Gwangmin Kim, Do Hoon Kim, Geunyoung Kim, Woojoon Park, Hakseung Rhee, Jae Hyun In, Kyung Min Kim, "Fully Memristive Elementary Motion Detectors for a Maneuver Prediction", Advanced Materials, 36(18), 2309708, 2024
 
 ## Artificial Intelligence Hardware
 
 Hardware accelerators to efficiently implement artificial intelligence and explainable artificial intelligence (XAI) algorithms using memristive devices
 
-1. **Hanchan Song†**, Woojoon Park†, Gwangmin Kim, Moon Gu Choi, Jae Hyun In, Hakseung Rhee, KyungMin Kim, "Memristive Explainable Artificial Intelligence Hardware", Advanced Materials, 36(25), 2400977, 2024
+> 1. **Hanchan Song†**, Woojoon Park†, Gwangmin Kim, Moon Gu Choi, Jae Hyun In, Hakseung Rhee, KyungMin Kim, "Memristive Explainable Artificial Intelligence Hardware", Advanced Materials, 36(25), 2400977, 2024
