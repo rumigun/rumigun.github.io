@@ -14,9 +14,13 @@ I am postdoctoral researcher at Texas A&M university. My research interests are 
   * **Dec. 2018 - Jan. 2019:** Internship, SK Hynix
 
 ## Academic Education
-  * **Mar. 2020 - Feb. 2024:** Ph.D. Department of Materials Science and Engineering, Korea Advanced Institute of Science and Technology (KAIST) (Advisor: Prof. Kyung Min Kim) (Thesis Title: Study on memristive intelligent system for neuroscience-inspired AI)
+  * **Mar. 2020 - Feb. 2024:** Ph.D. Department of Materials Science and Engineering, Korea Advanced Institute of Science and Technology (KAIST) 
+	* (Advisor: Prof. Kyung Min Kim) 
+	* (Thesis Title: Study on memristive intelligent system for neuroscience-inspired AI)
 
-  * **Mar.2018 - Feb. 2020:** M.S. Department of Materials Science and Engineering, Korea Advanced Institute of Science and Technology (KAIST) (Advisor: Prof. Kyung Min Kim) (Thesis Title: Study on synaptic device and programming method for memristive neural network platform)
+  * **Mar.2018 - Feb. 2020:** M.S. Department of Materials Science and Engineering, Korea Advanced Institute of Science and Technology (KAIST) 
+	*(Advisor: Prof. Kyung Min Kim) 
+	*(Thesis Title: Study on synaptic device and programming method for memristive neural network platform)
 
   * **Mar. 2013 - Feb. 2018** B.S. Department of Materials Science and Engineering, Korea Advanced Institute of Science and Technology (KAIST)
 
