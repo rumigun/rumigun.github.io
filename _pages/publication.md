@@ -6,6 +6,8 @@ sitemap: false
 #permalink: /404.html
 header:
   image: /assets/images/brain2.jpg
+tags:
+  - link
 link: https://github.com
 link1: https://doi.org/10.1002/adma.202400977
 ---
