@@ -5,5 +5,14 @@ search: false
 
 @charset "utf-8";
 
+// This changes the code box
+.highlight {
+  margin: 0;
+  padding: 0.5em;
+  font-family: $monospace;
+  font-size: $type-size-5b;
+  line-height: 1.8;
+}
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
