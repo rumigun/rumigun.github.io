@@ -7,7 +7,7 @@ header:
   image: /assets/images/semi_chips3.jpg
 ---
 
-I am a postdoctoral researcher at Texas A&M University.
+I am postdoctoral researcher at Texas A&M university. My research interests are memristor, neuromorphic computing, and artificial intelligence. I currently focus on memristor-based explainable artificial intelligence (XAI) hardware for safe AI systems.
 
 ## Experience
   * **Apr. 2024 - present:** Post-doc. Department of Electrical and Computer Engineering, Texas A&M University
