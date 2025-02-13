@@ -6,12 +6,14 @@ sitemap: false
 #permalink: /404.html
 header:
   image: /assets/images/brain2.jpg
+link: https://github.com
+link1: https://doi.org/10.1002/adma.202400977
 ---
 
 ## Paper (1st Author) (6)
 
-06. **Hanchan Song†**, Woojoon Park†, Gwangmin Kim, Moon Gu Choi, Jae Hyun In, Hakseung Rhee, KyungMin Kim*, "Memristive Explainable Artificial Intelligence Hardware", Advanced Materials, 36(25), 2400977, 2024
-05. **Hanchan Song†**, Min Gu Lee†, Gwangmin Kim, Do Hoon Kim, Geunyoung Kim, Woojoon Park, Hakseung Rhee, Jae Hyun In, Kyung Min Kim*, "Fully Memristive Elementary Motion Detectors for a Maneuver Prediction", Advanced Materials, 36(18), 2309708, 2024
+06. **Hanchan Song†**, Woojoon Park†, Gwangmin Kim, Moon Gu Choi, Jae Hyun In, Hakseung Rhee, KyungMin Kim*, "Memristive Explainable Artificial Intelligence Hardware", Advanced Materials, 36(25), 2400977, 2024 [link](#)
+05. **Hanchan Song†**, Min Gu Lee†, Gwangmin Kim, Do Hoon Kim, Geunyoung Kim, Woojoon Park, Hakseung Rhee, Jae Hyun In, Kyung Min Kim*, "Fully Memristive Elementary Motion Detectors for a Maneuver Prediction", Advanced Materials, 36(18), 2309708, 2024 [link1](#)
 04. Hyung Seok Shin†, **Hanchan Song†**, Do Hoon Kim, Alba Martinez, Woon Hyung Cheong, Kyung Min Kim*, "Multimode Synaptic Operation of a HfAlOx-Based Memristor as a Metaplastic Device for Neuromorphic Applications", ACS Applied Electronic Materials, 4(8), 3786-3793, 2022
 03. **Hanchan Song**, Jangho An, Seoil Son, Young Seok Kim, Juseong Park, Jae Bum Jeon, Geunyoung Kim, Kyung Min Kim*, "Parallel Operation of Self‐Limited Analog Programming for Fast Array‐Level Weight Programming and Update", Advanced Intelligent Systems, 2(7), 2000014, 2020
 02. Gil Seop Kim†, **Hanchan Song†**, Yoon Kyeung Lee, Ji Hun Kim, Woohyun Kim, Tae Hyung Park, Hae Jin Kim, Kyung Min Kim*, Cheol Seong Hwang*, "Defect-Engineered Electroforming-Free Analog HfOx Memristor and Its Application to the Neural Network", ACS Applied Materials & Interfaces, 11(50), 47063-47072, 2019
@@ -32,9 +34,9 @@ header:
 06. Juseong Park, Jungwoo Choi, Gwangmin Kim, Geunyoung Kim, Gil Seop Kim, **Hanchan Song**, Yeong Seok Kim, Younghyun Lee, Hakseung Rhee, Hyuck Mo Lee, Cheol Seong Hwang*, Kyung Min Kim*, "Modified dynamic physical model of valence change mechanism memristors", ACS Applied Materials & Interfaces, 14(31), 35949-35958, 2022
 05. Woon Hyung Cheong†, Jae Bum Jeon†, Jae Hyun In, Geunyoung Kim, **Hanchan Song**, Janho An, Juseong Park, Young Seok Kim, Cheol Seong Hwang*, Kyung Min Kim*, "Demonstration of neuromodulation‐inspired stashing system for energy‐efficient learning of spiking neural network using a self‐rectifying memristor array", Advanced Functional Materials, 32(29), 2200337, 2022
 04. Young Seok Kim, Jangho An, Jae Bum Jeon, Myeong Won Son, Seoil Son, Woojoon Park, Younghyun Lee, Juseong Park, Geun Young Kim, Gwangmin Kim, **Hanchan Song**, Kyung Min Kim*, "Ternary Logic with Stateful Neural Networks Using a Bilayered TaOX‐Based Memristor Exhibiting Ternary States", Advanced Science, 9(5), 2104107, 2022
-03. Gwangmin Kim, Jae Hyun In, Young Seok Kim, Hakseung Rhee, Woojoon Park, **Hanchan Song**, Juseong Park, Kyung Min Kim*, "Self-clocking fast and variation tolerant true random number generator based on a stochastic mott memristor", Nature Communications, 12, 2906, 2021
-02. Jae Hyun In, Young Seok Kim, **Hanchan Song**, Gwang Min Kim, Jangho An, Jae Bum Jeon, Kyung Min Kim*, "A Universal Error Correction Method for Memristive Stateful Logic Devices for Practical Near‐Memory Computing", Advanced Intelligent Systems, 2(9), 2000081, 2020
-01. Young Seok Kim, Myeong Won Son, **Hanchan Song**, Juseong Park, Jangho An, Jae Bum Jeon, Geun Young Kim, Seoil Son, Kyung Min Kim*, "Stateful In‐Memory Logic System and Its Practical Implementation in a TaOx‐Based Bipolar‐Type Memristive Crossbar Array", Advanced Intelligent Systems, 2(3), 1900156, 2020
+03. Gwangmin Kim†, Jae Hyun In†, Young Seok Kim, Hakseung Rhee, Woojoon Park, **Hanchan Song**, Juseong Park, Kyung Min Kim*, "Self-clocking fast and variation tolerant true random number generator based on a stochastic mott memristor", Nature Communications 12, 2906, 2021
+02. Jae Hyun In, Young Seok Kim, **Hanchan Song**, Gwang Min Kim, Jangho An, Jae Bum Jeon, Kyung Min Kim*, "A Universal Error Correction Method for Memristive Stateful Logic Devices for Practical Near‐Memory Computing", Advanced Intelligent Systems 2(9), 2000081, 2020
+01. Young Seok Kim, Myeong Won Son, **Hanchan Song**, Juseong Park, Jangho An, Jae Bum Jeon, Geun Young Kim, Seoil Son, Kyung Min Kim*, "Stateful In‐Memory Logic System and Its Practical Implementation in a TaOx‐Based Bipolar‐Type Memristive Crossbar Array", Advanced Intelligent Systems 2(3), 1900156, 2020
 
 ## Conference
 
