@@ -58,3 +58,9 @@ Self-limited Switching for Analog Data Programming and its Application to a Memr
 The 26th Korean Conference On Semiconductors, 강원도 웰리힐리파크, February 13-15, 2019, Oral
 
 ## Patent
+
+# Domestic
+1. 김상욱, 김경민, 김장환, 송한찬. “무작위 구조에 기반한 뉴로모픽 소자” 10-0060174 (2021.05.10)
+# International
+1. Sang Ouk Kim, Kyung Min Kim, Jang Hwan Kim, *Hanchan Song*. “Neuromorphic Device” PCT/KR2022/006655 (2022.05.10)
+
