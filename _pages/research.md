@@ -12,8 +12,8 @@ header:
 
 Non-volatile memories and volatile selectors using emerging materials and devices
 
-1. Hyung Seok Shin†, **Hanchan Song†**, Do Hoon Kim, Alba Martinez, Woon Hyung Cheong, Kyung Min Kim, "Multimode Synaptic Operation of a HfAlOx-Based Memristor as a Metaplastic Device for Neuromorphic Applications", ACS Applied Electronic Materials, 4(8), 3786-3793, 2022
-2. Gil Seop Kim†, **Hanchan Song†**, Yoon Kyeung Lee, Ji Hun Kim, Woohyun Kim, Tae Hyung Park, Hae Jin Kim, Kyung Min Kim, Cheol Seong Hwang, "Defect-Engineered Electroforming-Free Analog HfOx Memristor and Its Application to the Neural Network", ACS Applied Materials & Interfaces, 11(50), 47063-47072, 2019
+> 1. Hyung Seok Shin†, **Hanchan Song†**, Do Hoon Kim, Alba Martinez, Woon Hyung Cheong, Kyung Min Kim, "Multimode Synaptic Operation of a HfAlOx-Based Memristor as a Metaplastic Device for Neuromorphic Applications", ACS Applied Electronic Materials, 4(8), 3786-3793, 2022
+> 2. Gil Seop Kim†, **Hanchan Song†**, Yoon Kyeung Lee, Ji Hun Kim, Woohyun Kim, Tae Hyung Park, Hae Jin Kim, Kyung Min Kim, Cheol Seong Hwang, "Defect-Engineered Electroforming-Free Analog HfOx Memristor and Its Application to the Neural Network", ACS Applied Materials & Interfaces, 11(50), 47063-47072, 2019
 
 ## Neuromorphic Computing
 
