@@ -4,7 +4,7 @@ title: "About"
 excerpt: "Page not found. Your pixels are in another canvas."
 sitemap: false
 header:
-  image: /assets/images/semi_chips2.jpg
+  image: /assets/images/semi_chips3.jpg
 ---
 
 I am a postdoctoral researcher at Texas A&M University.
