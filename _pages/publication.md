@@ -15,7 +15,7 @@ header:
 04. Hyung Seok Shin†, **Hanchan Song†**, Do Hoon Kim, Alba Martinez, Woon Hyung Cheong, Kyung Min Kim*, "Multimode Synaptic Operation of a HfAlOx-Based Memristor as a Metaplastic Device for Neuromorphic Applications", ACS Applied Electronic Materials, 4(8), 3786-3793, 2022. [[link](https://pubs.acs.org/doi/10.1021/acsaelm.2c00320.)]
 03. **Hanchan Song**, Jangho An, Seoil Son, Young Seok Kim, Juseong Park, Jae Bum Jeon, Geunyoung Kim, Kyung Min Kim*, "Parallel Operation of Self‐Limited Analog Programming for Fast Array‐Level Weight Programming and Update", Advanced Intelligent Systems, 2(7), 2000014, 2020. [[link](https://doi.org/10.1002/aisy.202000014)]
 02. Gil Seop Kim†, **Hanchan Song†**, Yoon Kyeung Lee, Ji Hun Kim, Woohyun Kim, Tae Hyung Park, Hae Jin Kim, Kyung Min Kim*, Cheol Seong Hwang*, "Defect-Engineered Electroforming-Free Analog HfOx Memristor and Its Application to the Neural Network", ACS Applied Materials & Interfaces, 11(50), 47063-47072, 2019. [[link](https://pubs.acs.org/doi/10.1021/acsami.9b16499)]
-01. **Hanchan Song**, Young Seok Kim, Juseong Park, Kyung Min Kim*, "Designed Memristor Circuit for Self‐Limited Analog Switching and its Application to a Memristive Neural Network", Advanced Electronic Materials, 5(6), 1800740, 2019. [[link]( https://doi.org/10.1002/aelm.201800740)]
+01. **Hanchan Song**, Young Seok Kim, Juseong Park, Kyung Min Kim*, "Designed Memristor Circuit for Self‐Limited Analog Switching and its Application to a Memristive Neural Network", Advanced Electronic Materials, 5(6), 1800740, 2019. [[link](https://doi.org/10.1002/aelm.201800740)] [[Back Cover](https://doi.org/10.1002/aelm.201970032)]
 
 ## Paper (Co-author) (16)
 
