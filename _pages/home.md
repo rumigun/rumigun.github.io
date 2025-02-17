@@ -13,7 +13,7 @@ feature_row:
     url: "https://rumigun.github.io/about"
     btn_label: "Read More"
     btn_class: "btn--info"
-  - image_path: /assets/images/home_ai.jpg
+  - image_path: /assets/images/home_ai_bot.jpg
     alt: "Research"
     title: "Research"
     excerpt: "Research background and approach"
